@@ -11,9 +11,9 @@
 
 ## 🔗 Connect with me:
 <p align="left">
-<a href="https://twitter.com/sayrixfx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sayrixfx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sayrix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sayrix" height="30" width="40" /></a>
-<a href="https://discord.gg/jNKdusJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jNKdusJ" height="30" width="40" /></a>
+<a href="https://twitter.com/sayrixfx" target="blank"><img align="center" src="https://i.imgur.com/CuIpv32.png" alt="sayrixfx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sayrix" target="blank"><img align="center" src="https://i.imgur.com/JVFQEu8.png" alt="sayrix" height="30" width="40" /></a>
+<a href="https://discord.gg/jNKdusJ" target="blank"><img align="center" src="https://i.imgur.com/ECp26UF.png" alt="jNKdusJ" height="30" width="40" /></a>
 </p>
 
 ## ⚙️ Programming Tools:
