@@ -2,7 +2,7 @@
 
  
 
-[![discord](https://discord.com/api/guilds/634848647829258251/widget.png)](https://discord.gg/jNKdusJ) [![github-views](https://komarev.com/ghpvc/?username=sayrix&color=brightgreen)](https://github.com/Sayrix)
+[![discord](https://discordapp.com/api/guilds/592746774171484172/widget.png?style=banner2)](https://discord.gg/VasYV6MEJy) [![github-views](https://komarev.com/ghpvc/?username=sayrix&color=brightgreen)](https://github.com/Sayrix)
 
 
 
