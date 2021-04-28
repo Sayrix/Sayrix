@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/sayrixfx"><img src="https://i.imgur.com/CuIpv32.png" alt="sayrixfx" width="37" height="30" /></a> 
 <a href="https://www.youtube.com/c/sayrix"><img src="https://i.imgur.com/JVFQEu8.png" alt="sayrix" width="41"  height="30" /></a> 
-<a href="https://discord.gg/jNKdusJ"><img src="https://i.imgur.com/ECp26UF.png" alt="jNKdusJ" width="38" height="42" /></a>
+<a href="https://discord.gg/VasYV6MEJy"><img src="https://i.imgur.com/ECp26UF.png" alt="jNKdusJ" width="38" height="42" /></a>
 </p>
 
 ## ⚙️ Programming Tools:
