@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Sayrix
-![banner](https://i.imgur.com/pH6H21R.png)
+![banner](https://i.imgur.com/KoT7TuD.png)
 
 [![discord](https://discordapp.com/api/guilds/592746774171484172/widget.png)](https://discord.gg/VasYV6MEJy) [![github-views](https://komarev.com/ghpvc/?username=sayrix&color=brightgreen)](https://github.com/Sayrix)
 
