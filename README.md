@@ -6,7 +6,7 @@
 
 
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com/)
-- 🥖 I live in France
+- 🥖 I live in France in Bordeaux
 
 ## 🔗 Connect with me:
 <p align="left">
@@ -26,4 +26,3 @@
 <p><a href="https://www.buymeacoffee.com/sayrix"> <img align="left" src="https://i.imgur.com/85I54N3.png" height="45" width="205" alt="sayrix" /></a></p><br><br><br>
   
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sayrix&show_icons=true&hide_border=true" />
-<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayrix&show_icons=true&theme=tokyonight&layout=compact" />
