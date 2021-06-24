@@ -21,6 +21,7 @@
 ## 🚩 Projects:
 - [<img src="https://cdn.discordapp.com/avatars/551844135871709184/c3ca2e1f1a87dad01c29ede8ee5ce82e.png?size=512" width="24"/> Uty](https://uty-bot.xyz)
 - [<img src="https://cdn.discordapp.com/avatars/634818840542445580/495185be62673ec0dee617105d09598a.png?size=512" width="24"/> ChilledBot](https://top.gg/bot/634818840542445580)
+- [<img src="https://cdn.discordapp.com/avatars/853042562250965022/d4b134b85976f4e9e53b2efc5b01bc6d.png?size=512" width="24"/> BetterSlowmode](https://top.gg/bot/853042562250965022)
 
 ## 💎 Support me:
 <p><a href="https://www.buymeacoffee.com/sayrix"> <img align="left" src="https://i.imgur.com/85I54N3.png" height="45" width="205" alt="sayrix" /></a></p><br><br><br>
