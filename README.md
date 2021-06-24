@@ -19,8 +19,8 @@
 <p align="left"> <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" alt="github" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VsCode" width="40" height="40"/> </a></p>
 
 ## 🚩 Projects:
-- [<img src="https://cdn.discordapp.com/avatars/551844135871709184/c3ca2e1f1a87dad01c29ede8ee5ce82e.png?size=512" width="24"/> Uty](https://atom-bot.me)
-- [<img src="https://cdn.discordapp.com/avatars/634818840542445580/c95778b878239bfd9f6619984017391c.png?size=512" width="24"/> ChilledBot](https://top.gg/bot/634818840542445580)
+- [<img src="https://cdn.discordapp.com/avatars/551844135871709184/c3ca2e1f1a87dad01c29ede8ee5ce82e.png?size=512" width="24"/> Uty](https://uty-bot.xyz)
+- [<img src="https://cdn.discordapp.com/avatars/634818840542445580/495185be62673ec0dee617105d09598a.png?size=512" width="24"/> ChilledBot](https://top.gg/bot/634818840542445580)
 
 ## 💎 Support me:
 <p><a href="https://www.buymeacoffee.com/sayrix"> <img align="left" src="https://i.imgur.com/85I54N3.png" height="45" width="205" alt="sayrix" /></a></p><br><br><br>
