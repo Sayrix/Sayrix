@@ -15,9 +15,10 @@
 <p align="left"> <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" alt="github" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code512.png" alt="VsCode" width="40" height="40"/> </a></p>
 
 ## 🚩 Projects:
-- [<img src="https://cdn.discordapp.com/avatars/634818840542445580/bc24786459c70d4b34ff2247a4fa4269.png" width="24"/> ChilledBot](https://top.gg/bot/634818840542445580)(https://top.gg/bot/853042562250965022)
+- [<img src="https://cdn.discordapp.com/avatars/634818840542445580/bc24786459c70d4b34ff2247a4fa4269.png" width="24"/> ChilledBot](https://top.gg/bot/634818840542445580)
 - [<img src="https://cdn.discordapp.com/avatars/956586999102472222/1f31a078427e78086c174921237ced67.png" width="24"/> CryptoWatcher](https://cryptowatcher.pages.dev/)
 - [<img src="https://1337iseverywhere.codes/favicon.png" width="24"/> 1337iseverywhere](https://1337iseverywhere.codes/)
+- [Ticket-Bot](https://github.com/Sayrix/ticket-bot)
 
 ## 💎 Support me:
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Sayrix)
