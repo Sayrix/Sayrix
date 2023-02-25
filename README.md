@@ -16,7 +16,7 @@
 
 ## 🚩 Projects:
 - [<img src="https://cdn.discordapp.com/avatars/634818840542445580/bc24786459c70d4b34ff2247a4fa4269.png" width="24"/> ChilledBot](https://top.gg/bot/634818840542445580)
-- [<img src="https://cdn.discordapp.com/avatars/956586999102472222/1f31a078427e78086c174921237ced67.png" width="24"/> CryptoWatcher](https://cryptowatcher.pages.dev/)
+- [<img src="https://cdn.discordapp.com/avatars/956586999102472222/1f31a078427e78086c174921237ced67.png" width="24"/> CryptoWatcher](https://top.gg/bot/956586999102472222)
 - [Ticket-Bot](https://github.com/Sayrix/ticket-bot)
 
 ## 💎 Support me:
