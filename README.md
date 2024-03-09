@@ -16,6 +16,7 @@
 
 ## 🚩 Projects:
 - [<img src="https://cdn.discordapp.com/avatars/634818840542445580/a5ae14a23cdea7df6baa460efb42258b.png" width="24"/> Lofi Girl](https://top.gg/bot/634818840542445580)
+- [<img src="https://autoplus.gg/autoplus.png" width="24"/> AutoPlus](https://autoplus.gg)
 - [<img src="https://cdn.discordapp.com/avatars/956586999102472222/1f31a078427e78086c174921237ced67.png" width="24"/> CryptoWatcher](https://top.gg/bot/956586999102472222)
 - [Ticket-Bot](https://github.com/Sayrix/ticket-bot)
 
