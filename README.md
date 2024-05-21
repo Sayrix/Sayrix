@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Sayrix
 
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com/)
-- 🥖 I live in France in Bordeaux
+- 🥖 I live in France around Bordeaux
 
 ## 🔗 Connect with me:
 <p align="left">
