@@ -26,7 +26,6 @@
 ## 📜 Other:
 
 <img src="https://lanyard-profile-readme.vercel.app/api/629031362351071252">
-<img src="https://wakatime.com/share/@4ef41966-e667-4bdc-aadd-0cff917ea09f/5faa1530-7b5c-4201-873c-ff918f5d4d0c.png" />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%208%20mins-blue)
