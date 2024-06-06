@@ -46,4 +46,4 @@ Git Config               9 mins              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![github-views](https://komarev.com/ghpvc/?username=sayrix&color=brightgreen)](https://github.com/Sayrix)
+[![github-views](https://komarev.com/ghpvc/?username=sayrix&color=blue)](https://github.com/Sayrix)
