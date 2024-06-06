@@ -20,9 +20,6 @@
 - [<img src="https://cdn.discordapp.com/avatars/956586999102472222/1f31a078427e78086c174921237ced67.png" width="24"/> CryptoWatcher](https://top.gg/bot/956586999102472222)
 - [Ticket-Bot](https://github.com/Sayrix/ticket-bot)
 
-## 💎 Support me:
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Sayrix)
-
 ## 📜 Other:
 
 <img src="https://lanyard-profile-readme.vercel.app/api/629031362351071252">
