@@ -25,7 +25,7 @@
 <img src="https://lanyard-profile-readme.vercel.app/api/629031362351071252">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -33,7 +33,11 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 mins              █████████████████████████   100.00 % 
+TypeScript               22 mins             ██████████████░░░░░░░░░░░   57.51 % 
+JavaScript               8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+JSON                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 
