@@ -22,7 +22,20 @@
 <img src="https://lanyard-profile-readme.vercel.app/api/629031362351071252">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2047%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-371.3%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Processing               4 hrs 5 mins        ████████████████████░░░░░   78.75 % 
+TypeScript               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+```
 
 
 <!--END_SECTION:waka-->
