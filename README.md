@@ -22,19 +22,19 @@
 <img src="https://lanyard-profile-readme.vercel.app/api/629031362351071252">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C698%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C699%20hrs%2021%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-470.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-473.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 16 mins       ███████████████████████░░   91.09 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               16 hrs 15 mins      ███████████████████████░░   90.98 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Diff                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 
