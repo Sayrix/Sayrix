@@ -23,14 +23,6 @@
 
 ![Code Time](https://wakatime.com/badge/user/4ef41966-e667-4bdc-aadd-0cff917ea09f.svg?color=38a3a5)
 
-<!--START_SECTION:waka-->
-
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-474.6%20thousand%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
-
 ![Time Spent This Week](https://github-readme-stats.vercel.app/api/wakatime?username=Sayrix&api_domain=wakapi.dev&hide_border=true&bg_color=1a1c1f&title_color=38a3a5&icon_color=38a3a5&text_color=ffffff&custom_title=Time+Spent+This+Week&layout=default&langs_count=5)
 
 [![github-views](https://komarev.com/ghpvc/?username=sayrix&color=38a3a5)](https://github.com/Sayrix)
