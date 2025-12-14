@@ -21,8 +21,6 @@
 
 <img src="https://lanyard-profile-readme.vercel.app/api/629031362351071252">
 
-<img src="https://lanyard-profile-readme.vercel.app/api/629031362351071252">
-
 ![Code Time](https://wakatime.com/badge/user/4ef41966-e667-4bdc-aadd-0cff917ea09f.svg?color=38a3a5)
 
 <!--START_SECTION:waka-->
