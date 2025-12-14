@@ -1,25 +1,27 @@
-## Hi 👋, I'm Sayrix
+# Hi there 👋
 
-- 💻 I use [Visual Studio Code](https://code.visualstudio.com/)
-- 🥖 I live in France around Bordeaux
+I'm Sayrix, a developer from a small city near Bordeaux, France 🇫🇷
 
-## 🔗 Connect with me:
-<p align="left">
-<a href="https://twitter.com/Sayrix_"><img src="https://i.imgur.com/zVwbWwf.png" alt="sayrix" width="37" height="37" /></a> 
-<a href="https://www.youtube.com/c/sayrix"><img src="https://i.imgur.com/qZBU7AO.png" alt="sayrix" width="37"  height="37" /></a> 
-<a href="https://discord.gg/VasYV6MEJy"><img src="https://i.imgur.com/nsVOefF.png" alt="jNKdusJ" width="37" height="37" /></a>
-<a href="https://www.twitch.tv/s4yrix"><img src="https://i.imgur.com/0pAkilW.png" alt="s4yrix" width="37" height="37" /></a>
-</p>
+I mostly write code that runs on the backend, with a strong focus on **Discord apps** and **APIs**.
 
-## 🚩 Projects:
-- [<img src="https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png" width="24"/> Lofi Girl's Bots](https://bot.lofigirl.com)
-- [<img src="https://autoplus.gg/autoplus.png" width="24"/> AutoPlus](https://autoplus.gg)
-- [<img src="https://cdn.discordapp.com/avatars/956586999102472222/1f31a078427e78086c174921237ced67.png" width="24"/> CryptoWatcher](https://top.gg/bot/956586999102472222)
-- [Ticket-Bot](https://github.com/Sayrix/ticket-bot)
+When building projects, I usually work with **Bun** and **TypeScript**, using **MongoDB** or **SQLite** depending on the use case.
+
+## 🚀 Projects
+Some of the main projects I spend time on:
+
+- [<img src="https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png" width="24"/> **Lofi Girl's Bots**](https://bot.lofigirl.com)  
+  Managing and maintaining [Lofi Girl](https://lofigirl.com)'s Discord music bots
+
+- [<img src="https://autoplus.gg/autoplus.png" width="24"/> **AutoPlus**](https://autoplus.gg)  
+  An automated cryptocurrency escrow on Discord
+
+- [<img src="https://cdn.discordapp.com/avatars/956586999102472222/1f31a078427e78086c174921237ced67.png" width="24"/> **CryptoWatcher**](https://top.gg/bot/956586999102472222)  
+  A Discord app showing cryptocurrency prices across multiple exchanges
+
+- [**Ticket-Bot**](https://github.com/Sayrix/ticket-bot)  
+  An open-source Discord ticket bot
 
 ## 📜 Other:
-
-<img src="https://lanyard-profile-readme.vercel.app/api/629031362351071252">
 
 ![Code Time](https://wakatime.com/badge/user/4ef41966-e667-4bdc-aadd-0cff917ea09f.svg?color=38a3a5)
 
