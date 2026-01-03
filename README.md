@@ -25,6 +25,6 @@ Some of the main projects I spend time on:
 
 ![Code Time](https://wakatime.com/badge/user/4ef41966-e667-4bdc-aadd-0cff917ea09f.svg?color=38a3a5)
 
-![Time Spent This Week](https://github-readme-stats.vercel.app/api/wakatime?username=Sayrix&api_domain=wakapi.dev&hide_border=true&bg_color=1a1c1f&title_color=38a3a5&icon_color=38a3a5&text_color=ffffff&custom_title=Time+Spent+This+Week&layout=default&langs_count=5)
+![Time Spent This Week](https://github-readme-stats-omega-lac-93.vercel.app/api/wakatime?username=Sayrix&api_domain=wakapi.dev&hide_border=true&bg_color=1a1c1f&title_color=38a3a5&icon_color=38a3a5&text_color=ffffff&custom_title=Time+Spent+This+Week&layout=default&langs_count=5)
 
 [![github-views](https://komarev.com/ghpvc/?username=sayrix&color=38a3a5)](https://github.com/Sayrix)
